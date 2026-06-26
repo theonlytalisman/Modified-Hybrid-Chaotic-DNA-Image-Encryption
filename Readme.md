@@ -1,6 +1,6 @@
 # MHC-DIE — Modified Hybrid Chaotic-DNA Image Encryption
 
-> **By Muhammad Adeel Haider (BitR1ft)**
+> **By Syed Hadi Ali (theonlytalisman)**
 
 A research-grade image encryption system that fuses **chaos theory** with **DNA computing** to provide strong, key-dependent encryption for digital images. MHC-DIE is built on Kerckhoffs's Principle — security resides entirely in the secret key, never in algorithm secrecy.
 
@@ -148,7 +148,7 @@ This work builds upon and improves:
 
 ## Author
 
-**Muhammad Adeel Haider** — *BitR1ft*
+**Syed Hadi Ali** — *theonlytalisman*
 
 ---
 
